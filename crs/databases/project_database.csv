@@ -1,0 +1,1772 @@
+name,protein,carbohydrate,fat,nutriScore
+Orange nectar ,0,11,0,4
+Barley flour ,10,73,2,4
+Palmier ,3,20,11,3
+Cauliflower gratin ,6,9,6,4
+Guyot Pear ,0.4,15,0.2,5
+Whole spelt flour (T150) ,14,61,2,4
+Chicken breast ,31,0,3.6,5
+Soft serve ,3,23,7,3
+Soybean oil ,0,0,100,2
+Carbonnade flamande ,28,9,10,5
+Beef with onions ,28,2,6,5
+Pigeon ,25,0,5,5
+Steamed potatoes ,2,17,0.1,4
+Farfalle ,12,75,1.5,4
+Sardine in tomato sauce ,25,0,12,5
+Chocolate barquette ,6,57,31,2
+Semi-salted butter (60% Fat) ,1,0,60,2
+Chocolate filled biscuit ,5,60,22,2
+Breadsticks ,10,77,3,4
+Semolina puddin ,6,31,7,3
+Savoyarde pizza ,12,28,11,3
+Non-Fat Plain Greek Yogurt ,10,3.6,0.4,5
+Chicken curry ,24,13,8,5
+Butter ,0.9,0,81,2
+Spanish omelette ,9,10,11,4
+Herb omelette ,12,1,11,4
+Petit Ecolier dark chocolate ,5,58,31,2
+Cereal patty ,6,71,1.5,4
+Chicken drumstick ,27,0,12,5
+Minestrone soup ,3,20,1.5,4
+White bread ,8,49,1.5,3
+Oasis 33cL ,0,9,0,3
+Pepper ,1.4,5.3,0.3,5
+Ham egg cruditÃ©s butter baguette sandwich ,18,21,19,5
+Pancake ,6,50,9,3
+Monkfish ,20,0,1,5
+Sour cream ,2.8,3.6,20,3
+Oatmeal Squares ,6,73,8,3
+Tagliatelle ,8,74,1.5,4
+Matcha ,2,25,3,4
+Fennel seeds ,15,52,15,4
+Turkey breast ,29,0,1,5
+Beef bourguignon ,25,4,10,5
+Frozen yogurt ,4,23,4,4
+Pizza crust ,12,44,7,3
+Barbecue sauce ,0.5,29,0.5,3
+Saveloy ,13,6,29,3
+Miso soup ,2,5,0.5,5
+Fresh salsify ,2,16,0.2,4
+Raw broad beans ,10,58,1.5,4
+Poutine ,10,20,10,3
+Oat milk ,1,7,3,4
+Pizza Calzone ,14,35,12,3
+White sugar ,0,100,0,2
+Pasta with tomato sauce ,10,25,3,4
+Escarole ,1.2,3.2,0.2,5
+Toast with Nutella ,4,50,31,2
+Cheesecake ,6,29,23,2
+Crab cake ,17,6,15,4
+Fruit cake ,4,47,12,3
+Fresh rosemary ,3.3,20,0.6,5
+Coffee ,0.1,0.5,0.3,5
+Whole Milk Plain Yogurt ,9,5,3.5,5
+Gin shot ,0,0,0,3
+Fresh white aspargus ,2.2,3.8,0.2,5
+Gnocchi ,3,75,0.5,4
+Sage infusion ,0.8,0.6,0.2,5
+Beefsteak ,31,0,18,5
+Unsweetened vanilla almondmilk ,1,1,2.5,5
+Pepito ,13,52,27,2
+Couscous ,3.8,23,0.6,5
+Cherry jam ,0.4,66,0.2,3
+Currywurst ,16,12,16,4
+Cat tongue ,7,71,18,2
+Truffle ,2,6,30,2
+Raisin snail ,10,30,5,4
+Raspberry jam ,0,60,0,2
+Fresh sage ,3,5,1,5
+Yam ,2,30,0,5
+Cooked orange bell peppers ,1,6,0,5
+Light cream (15%) ,3,5,10,3
+Camembert ,20,1,25,2
+Milk hazelnut chocolate ,5,30,15,3
+Frozen brussel sprouts ,4,10,0,5
+Tea ,0,0,0,5
+Calamari ,15,10,5,4
+Canned peas and carrots ,5,20,1,4
+Penne ,8,40,2,4
+Plum compote ,1,30,0,4
+Samosas ,5,30,15,2
+Greek salad ,10,15,20,4
+Dim sum ,10,20,15,3
+Whole almond flour ,20,15,50,2
+Plain omelette ,20,2,15,5
+Prawn ,20,5,5,5
+Grated cheese ,10,2,15,3
+Mojito ,0,30,0,2
+Iceber lettuce ,1,3,0,5
+Acid candies ,0,20,0,2
+Orange salad ,2,10,0,5
+Dry green lentils ,20,40,2,5
+Turkey cutlet ,25,0,5,5
+Skirt steak ,30,0,10,4
+Berlingots ,0,40,0,2
+Cornstarch ,0,30,0,2
+Ham and cheese pizza slice ,15,30,20,3
+Fresh goat cheese ,15,2,20,3
+Glass of sparklin water ,0,0,0,5
+Deviled egg ,10,2,10,5
+Raspberry Jaffa cake ,2,20,10,3
+Red lentil flour ,15,30,5,4
+Duck le ,25,0,20,3
+Pasta ,8,40,2,4
+Beetroot ,2,15,0,5
+Pita bread ,5,30,5,4
+Doughnut ,5,40,15,2
+Champagne ,0,5,0,5
+Mackerel ,25,0,15,5
+Grilled lamb chop ,25,0,20,4
+Creme caramel ,5,30,15,3
+Fruit salad ,0.3,0.2,10,3
+Chard ,0.8,0.2,2,4
+Fennel salad ,0.1,0,2,5
+Grated carrots ,0.6,0.3,7,3
+Apple sauce ,0.2,0.1,10,3
+Chervil ,1.6,0.6,3,5
+Vodka shot ,0,0,0,1
+Fresh white beans ,1.4,0.3,7,4
+Apple turnover ,6.7,3.2,30,2
+Orange jam ,0.2,0.1,61,1
+Toast with honey ,3.2,1.4,54,2
+Martini ,0,0,2,5
+Vermicelli ,1.4,0.1,26,3
+Chicory ,0.5,0.2,4,5
+Peeled potato ,0.1,0,17,3
+Orzo pasta ,0.8,0.1,20,3
+Sweetened tea ,0,0,5,2
+Gummy bear ,0,0,77,1
+Carrot juice ,0.5,0.1,6,3
+Ham and butter baguette sandwich ,4.2,1.8,51,2
+Tomato sauce ,1.8,0.8,7,4
+Mun beans ,0.8,0.2,19,3
+Le of lamb ,0,0,0,1
+Custom English breakfast ,3.6,1.6,18,3
+Vegetable patties ,12.1,4.6,13,4
+Chips ,27,2.5,54,1
+Fusilli raw ,0,0,72,1
+Cannelloni ,20,4.1,14,4
+Pork kidneys ,0.2,0.1,4,5
+Fried chicken ,10.6,2.3,12,4
+Fuze Tea 33cL ,0,0,4,2
+Onion powder ,0,0,23,3
+Bottled white beer ,2,10,0,3
+Kir royal ,0,20,0,2
+Tzatziki ,2,5,10,4
+Maki ,5,30,10,3
+Coconut milk ,2,5,15,3
+Crumbled salmon ,20,0,10,4
+Puddin ,5,30,15,2
+Corn bread ,5,30,5,4
+Blond draught beer ,2,5,10,4
+Chicken Basquaise with pasta ,20,30,10,3
+Beef stock ,5,0,0,5
+Low fat sour cream ,2,5,5,5
+Corn cob ,2,30,5,4
+Pad thaÃ¯ ,10,40,20,3
+Spicy cream sauce ,2,5,10,4
+Korma Chicken ,20,5,15,3
+Water syrup ,0,30,0,2
+Fresh eggplant ,1,5,0,5
+Takoyaki ,10,20,5,4
+Sweet cider ,0,20,0,2
+Lemon tart ,5,30,15,2
+Cooked ham ,20,2,5,5
+Cupcake without icing ,2,30,15,2
+Tartiflette ,10,20,30,2
+Sesame seeds ,10,5,15,3
+Pasta Bolognese ,10,40,10,3
+Danone plain Yogurt ,5,10,0,4
+Saint-Nectaire ,20,0,25,2
+Einkorn whole grain flour ,10,50,10,4
+Feijoada ,20,30,20,2
+Steamed trout ,20,0,10,4
+Cinnamon roll ,5,40,15,2
+Pasta with vegetables ,8,40,5,4
+Peach ,1,15,0,5
+Toad in the Hole ,15,20,15,3
+Prime rib ,25,0,20,4
+Agave syrup ,0,80,0,2
+Lobster bisque ,5,10,20,3
+White pudding ,5,10,15,2
+Lime juice ,0,5,0,5
+Quinoa salad ,5,20,10,4
+Saint-Agur ,20,0,30,2
+Cutlet ,20,0,5,5
+Peanut butter toast ,10,20,15,3
+Oat bran ,10,50,15,2
+Grain mustard ,5,0,10,5
+Quiche Lorraine ,15,20,30,2
+Scampi ,20,5,15,3
+Small macaroni ,8,40,2,4
+Red mullet ,20,0,10,4
+Poultry stock ,5,0,0,5
+Palm hearts ,2,5,0,5
+Banana milkshake ,2,30,5,4
+Canned mackerel with tomato sauce ,20,10,10,4
+Almond paste ,10,30,50,2
+Muesli ,10,40,15,3
+Tomato concentrate ,5,20,0,4
+Canned peeled tomatoes ,2,5,0,5
+Ground cumin ,10,20,15,3
+Black olives ,2,5,15,3
+Sea bream tartare ,20,0,10,4
+Deluxe Potatoes ,2,30,15,3
+Cheese naan ,10,40,15,2
+Butternut squash ,1,20,0,5
+Star anise ,5,25,10,3
+Vegetable pudding ,5,30,10,4
+Fish rillettes ,20,5,15,3
+Fonio flour ,10,50,5,4
+Dried oregano ,5,30,10,4
+Petits fours ,5,30,20,2
+Whole wheat tortilla ,8,40,10,3
+Philadelphia ,5,2,25,2
+Non-Fat Plain Yogurt ,5,10,0,4
+Rice cake ,2,20,0,5
+Kinder Bueno ,5,30,20,2
+Turkey roast ,25,0,15,4
+Monster Munch ,5,40,15,2
+Cardamom powder ,5,30,15,3
+Custom club sandwich ,20,40,25,2
+Margarita ,0,30,0,2
+Burrito ,15,40,10,3
+Red beans ,8,30,1,4
+Rice drink ,1,20,1,5
+Orange zest ,1,5,1,5
+Pecan nuts ,5,5,20,3
+Chicken wrap ,20,30,15,3
+Potato starch ,0,30,0,2
+Poultry paupiette ,25,5,10,4
+Plain muffin ,5,30,15,2
+Roasted pumpkin ,2,10,5,5
+Prawn crackers ,2,50,20,2
+Egg yolk ,15,0,30,2
+Fat-free chicken stock cube ,10,0,0,5
+Buckwheat flakes ,10,60,5,4
+Pomegranate ,1,20,1,5
+Bi Mac ,25,40,30,2
+Skittles ,0,90,2,2
+Cod fish cake ,20,20,10,3
+Grits ,2,20,1,5
+Balsamic vinegar ,0,10,0,5
+Stew ,20,20,10,3
+Tomato soup ,2,10,5,5
+Tomato and meat sauce ,8,15,5,4
+Lychee ,1,15,0,5
+Frozen green beans ,2,5,0,5
+Dried mango ,2,65,1,2
+Hot Chocolate ,5,30,10,4
+Coppa ,20,0,30,2
+Meat stuffing ,15,5,20,3
+Schweppes Agrum' Zero 33cL ,0,10,0,5
+Almond milk ,1,3,3,5
+Chocolate muffin ,5,30,20,2
+Schweppes Agrum' 33 cL ,0,15,0,4
+Blue Lagoon ,0,30,0,2
+Rusk ,2,20,5,4
+Rocamadour ,20,0,30,2
+Beef Meatballs ,15,10,20,3
+Bocconcini ,20,2,15,3
+Chocolate croissant ,5,30,20,2
+Canned crushed tomatoes ,2,5,0,5
+Cocoa powder ,20,10,10,3
+Butter chicken ,20,10,20,3
+Ice Tea 33cL ,0,10,0,5
+Whey protein powder vanilla ,20,5,5,4
+Pumpkin puree ,1,5,0,5
+Salmon sashimi ,20,0,5,5
+Swordfish ,20,0,5,5
+Marinated bell peppers ,2,5,15,3
+Salmon sushi ,15,30,5,4
+Canned corn ,2,20,1,4
+Barbecue pizza ,10,30,15,3
+Einkorn semi-whole flour ,10,40,2,4
+Hazelnut oil ,0,0,25,2
+Cake Line ,5,30,15,2
+Flageolet beans ,10,20,1,4
+Ground beef (15% fat) ,20,0,15,4
+Vol-au-vent ,8,30,25,2
+Vanilla Bean ,0,20,0,2
+Crepe with bechamel and cheese ,10,20,15,3
+Lard ,0,0,25,2
+Amaretti ,5,30,20,2
+Mint ,2,5,1,5
+Passion fruit nectar ,1,20,0,5
+Bouquet garni ,2,5,0,5
+Semi-salted butter ,0,0,20,2
+Cordon bleu ,20,5,15,3
+Raw pak choy cabbage ,1,2,0,5
+Enchiladas ,15,30,20,3
+Semi-skimmed milk powder ,35,50,1,2
+Cupcake ,5,30,15,2
+Leeks ,2,5,0,5
+M&Ms ,5,70,15,2
+Compressed baker's yeast ,15,20,5,4
+Dehydrated baker's yeast ,20,30,5,4
+Bobun ,15,40,10,3
+Cayenne pepper powder ,15,25,15,3
+Salty sauce ,0,10,10,3
+Cooked celery ,1,5,0,5
+Oasis 50cL ,0,10,0,5
+Graham Cracker ,2,20,10,3
+Fresh dill ,3,3,1,5
+Mashed potatoes ,2,20,5,4
+California roll ,10,40,10,3
+Quail ,20,0,10,4
+Mix of nuts and dried fruits ,10,30,15,3
+Beer can ,1,10,0,5
+Fanta ,0,10,0,5
+Maredsous ,20,5,25,2
+Smoked salmon and butter baguette sandwich ,20,30,20,3
+Espelette pepper powder ,10,10,5,4
+Green Lentil Flour ,20,40,5,4
+Wasa toast ,2,15,1,5
+Coca-Cola ,0,10,0,5
+Toast with fish rillettes ,15,30,5,4
+Herrin ,20,0,15,3
+Ground beef (10% Fat) ,20,0,10,4
+Baklava ,5,30,20,2
+Kir ,0,20,0,2
+Beef tongue ,20,0,10,4
+Milkshake ,5,30,10,4
+Lychee (in shell) ,1,15,0,5
+Sprin roll dipping sauce ,0,15,0,5
+Plaice ,20,0,5,5
+Bruschetta ,2,30,15,2
+Chia seeds ,10,5,15,3
+Bun ,8,30,5,4
+Proti'dej ,20,30,10,3
+Roquefort ,20,2,30,2
+Dried rosemary ,3,20,10,4
+Chicken stock cube ,10,5,10,4
+Coffee Yogurt ,5,20,5,4
+Seafood risotto ,10,30,20,3
+Banana chips ,2,60,30,2
+Beef meat ,20,0,15,4
+Semi-whole spelt flour ,10,40,2,4
+Mint tea ,0,10,0,5
+Babyback ribs ,20,5,15,3
+Salami ,20,2,25,2
+SpÃ¤tzle ,5,30,10,4
+Canned mackerel in white wine ,20,0,10,4
+Granola ,5,40,20,2
+Carrot puree ,1,10,5,5
+Livarot ,20,2,30,2
+Melted dark chocolate ,5,30,30,2
+Individual bread ,5,40,15,2
+Curly ,2,20,10,4
+Pim's ,2,50,20,2
+Plain wheat sandwich bread ,5,50,5,4
+Pizza dough with honey ,5,30,5,4
+Clementine juice ,0,10,0,5
+Bamboo shoots ,1,5,0,5
+Cassava ,2,38,0,5
+Nalu ,0,15,0,2
+White chocolate ,5,50,30,2
+White rice flour ,2,80,1,2
+Walnut tart ,5,40,25,2
+Tigernut flour ,4,25,20,3
+Candy ,0,80,5,2
+Raclette ,20,0,30,2
+Arugula ,2,2,1,5
+Russian cigarette ,1,15,5,5
+Nutmeg powder ,6,15,30,2
+Mentos ,0,90,2,2
+Brown sugar ,0,100,0,2
+Whole milk powder ,25,40,25,2
+Canned tuna with tomato ,20,5,10,4
+Sprite ,0,10,0,5
+Galette Saint Michel ,5,60,20,2
+Tuna steak ,20,0,5,5
+Cruesli original ,5,50,15,2
+Home-made french fries ,2,30,20,3
+Salmon maki ,15,40,10,3
+Chili oil ,0,10,15,4
+Saint-Marcellin Cheese ,20,0,30,2
+Red lentils pasta ,20,40,2,4
+Strawberry jam ,0,60,0,2
+Fish sticks ,15,15,10,3
+Whelk ,20,0,5,5
+Rabbit ,25,0,5,5
+Grilled onions ,1,5,3,5
+Condensed milk ,8,55,8,2
+Saffron ,3,65,6,2
+Prawn fritter ,15,20,15,3
+Pearl onion ,1,4,0,5
+Frozen zucchini ,1,2,0,5
+7 Up 33cL ,0,10,0,5
+Roasted shoulder of lamb ,20,0,15,4
+Mixed greens ,2,3,0,5
+Mushroom risotto ,5,40,10,3
+Oreo ,2,30,10,4
+Iced tea ,0,10,0,5
+Ossobuco ,25,0,10,4
+Special K Nourish ,7,65,2,4
+Pepsi 33cL ,0,10,0,5
+Beef Wellington ,25,30,30,2
+Kale ,4,10,1,5
+Shrimp sushi ,15,30,5,4
+Shawarma ,15,20,15,3
+Breaded cutlet ,20,15,10,3
+Custom crepe (buckwheat) ,5,25,15,3
+Edamame ,12,8,3,4
+Almond spread ,5,30,55,2
+Softdrink ,0,10,0,5
+Ham emmental butter baguette sandwich ,15,25,15,3
+The Laughing Cow ,5,5,15,4
+Orange wedges ,1,15,0,5
+Nutella ,6,56,31,2
+Saithe ,20,0,1,4
+Banana ,1,20,0,5
+Smoked diced bacon ,20,0,25,2
+Dragibus ,0,90,2,2
+Goat cheese toast ,10,20,20,3
+Stuffed zucchini ,5,20,10,4
+Cottage pie ,15,20,15,3
+Salt ,0,0,0,5
+Mortadella ,20,5,20,2
+Fat-free beef stock cube ,10,0,0,5
+All-chocolate cookie ,5,55,30,2
+Breadcrumbs ,12,25,3,4
+Yop ,3,20,1,5
+Silken tofu ,8,2,4,4
+Red Bull 35cL ,0,30,0,2
+Beef stew ,15,20,15,3
+Tomme cheese ,20,0,25,2
+Mixed fruit nectar ,1,15,0,5
+Bara Brith Bread ,5,40,15,2
+Carp ,20,0,5,4
+Cointreau ,0,40,0,2
+Saffron rice ,4,40,15,3
+Black Coffee ,0,0,0,5
+Dried chipotle chili pepper ,12,25,14,3
+Saint Albray ,20,0,30,2
+Cuttlefish ,15,0,5,4
+Spritz ,0,30,0,2
+Pumpkin seeds ,30,10,45,2
+Banana juice ,0,15,0,5
+Mustard ,4,6,7,4
+Snow peas ,3,5,0,5
+Vegetable stock ,1,1,1,5
+Whisky shot ,0,0,0,5
+Lemon sorbet ,0,20,0,2
+Irish Coffee ,5,10,5,4
+Bridelight butter ,0,0,45,2
+Prunes ,2,25,0,5
+Cottage Cheese ,10,3,4,4
+Burrata ,20,0,25,2
+Seaweed salad ,2,2,0,5
+Salted soy sauce ,1,3,0,5
+Sauerbraten ,25,10,20,3
+Cappuccino ,5,10,5,4
+White wheat flour ,10,70,1,2
+Ground beef (15% Fat) ,20,0,15,4
+Ladyfingers ,5,35,10,3
+Bowl cake ,5,40,15,2
+Four-cheese pizza ,20,30,25,2
+Polenta ,3,20,1,5
+Tuna sushi ,20,30,5,4
+Veal kidneys ,20,0,20,2
+Pringles ,2,14,32,2
+Macaroon ,2,20,15,2
+Sausage ,20,5,15,3
+Marshmallow ,0,25,0,2
+Cauliflower ,2,5,0,5
+Plain Yogurt ,5,4,3,5
+Chocolate BN ,5,60,25,2
+Happy Cola ,0,10,0,5
+Barbecue pizza slice ,10,20,10,3
+Crepe (ham cheese and mushrooms) ,15,20,15,3
+Vegetarian nuggets ,15,20,10,3
+Canned brussel sprouts ,3,7,1,5
+Cereal wheat sandwich bread ,5,50,5,4
+Canned pumpkin ,1,10,0,5
+Cooked pak choy cabbage ,1,3,1,5
+White chocolate Fudgesicle ,3,25,15,2
+Couscous Royale ,5,40,5,4
+Pesto pasta ,8,40,15,3
+Wholewheat pasta ,8,40,5,4
+Macaroni and cheese ,10,30,15,3
+Gluten-free rice pasta ,5,40,2,4
+Smoked ham ,20,1,5,5
+Apple strawberry compote ,0,20,0,5
+RosÃ© ,0,5,0,5
+Cooked fennel ,1,5,2,5
+Ice Tea Light ,0,3,0,5
+Cranberries ,1,4,1,5
+Laurel leaf ,1,2,1,5
+Raspberry ice cream ,5,25,20,2
+Tabasco sauce ,0,1,0,5
+Prune custard flan ,5,25,20,2
+Tomato mozzarella salad ,5,5,15,3
+Cheese pizza slice ,10,30,15,3
+Chickpeas ,9,27,4,4
+William Pear ,1,10,0,5
+Oatmeal pancake ,5,20,10,3
+Ice Tea Light 50cL ,0,5,0,5
+Toulouse sausage ,20,5,20,2
+French fries ,3,25,17,2
+Arborio rice ,2,29,1,5
+Canned lentils ,9,14,1,5
+Dauphine potatoes ,3,20,20,2
+Cooked red bell peppers ,1,6,1,5
+Rice salad ,3,25,10,3
+Salmon and sorrel quiche ,15,20,25,2
+Strasbour sausage ,20,5,15,3
+Goji berries ,12,57,10,3
+Candyfloss ,0,100,0,2
+Cereals ,10,80,5,2
+Chili con carne ,15,20,15,3
+Poultry skewer ,20,5,5,4
+Mixed fruit juice ,0,10,0,5
+Honey Smacks ,2,85,1,2
+Grilled pork chops ,20,0,15,4
+Dark chocolate ,5,35,40,2
+Fish and chips ,15,40,30,2
+Ratatouille ,2,5,5,4
+Chipster Belin ,5,55,30,2
+Blueberry jam ,0,65,0,2
+Skate ,20,0,5,4
+Four-cheese pizza slice ,10,15,12,3
+Coconut flour ,15,20,12,3
+Smoked mackerel ,20,0,15,4
+Sea urchins ,10,15,10,4
+Jambalaya ,15,40,20,3
+Crab ,20,0,2,4
+Peanuts ,26,16,49,2
+Sunflower oil ,0,0,100,2
+Whole goat's milk ,3,4,5,4
+Stuffed eggplant ,5,15,10,3
+Steak ,20,0,15,4
+Green aspargus ,2,2,0,5
+Clusters ,5,35,25,2
+Garlic powder ,6,16,1,4
+Bounty ,4,27,16,2
+Petit-suisse ,5,10,10,3
+Beef Tartare ,25,2,20,2
+Frozen vegetable mix ,2,6,0,5
+Pink Lady Apple ,0,20,0,5
+Kebab ,20,25,10,3
+LeberkÃ¤se ,15,15,25,2
+Prawn curry ,20,15,15,3
+Grilled mackerel ,20,0,15,4
+Lemon zest ,1,3,0,5
+Curry powder ,8,15,15,3
+Green beans ,2,7,0,5
+Peach jam ,0,65,0,2
+Strawberry tart ,4,35,20,2
+Mozzarella stick ,7,1,12,4
+Ricotta and spinach ravioli ,10,35,10,3
+Bottle of sparkling water ,0,0,0,5
+Macadamia nuts ,7,14,76,2
+Bottled dark beer ,1,5,0,5
+Home-made mashed potatoes ,2,15,5,4
+Prosciutto mozzarella and tomatoes panini ,20,25,25,2
+Blackcurrant ,1,16,0,5
+Chicken noodle soup ,8,7,5,4
+Chicken Basquaise with rice ,20,20,10,3
+Granola biscuit ,2,20,10,3
+Canned celery ,1,2,0,5
+Saint-MÃ´ret Cheese ,12,1,25,2
+Nougat ,3,80,35,2
+Clafoutis ,5,25,10,3
+Jerusalem artichoke ,2,17,0,5
+Red Velvet Cake ,4,50,20,2
+Raddish ,1,2,0,5
+Leerdammer ,25,0,30,2
+Seitan ,20,10,5,4
+Chicken quenelle ,15,10,10,4
+Maple syrup ,0,67,0,2
+Pike ,20,0,5,4
+Shallot ,1,5,0,5
+Baking powder ,0,28,0,5
+Cream puff ,5,35,30,2
+Bread ,8,49,5,4
+Expresso ,0,0,0,5
+Mango nectar ,0,14,0,5
+Lin backs ,18,70,10,3
+Hawaiian pizza ,10,25,20,3
+Sweet vanilla almond milk ,0,8,3,4
+Cabbage salad ,1,4,0,5
+Roasted vegetables ,2,7,5,4
+Wheat tortilla ,3,52,7,4
+Whole Cayenne pepper ,2,27,2,4
+Wheat ,13,64,2,4
+Canned peas ,5,12,0,5
+Frankfurter ,20,5,20,2
+Guacamole ,3,10,15,3
+Bagel sandwich ,25,30,20,3
+Carrot cake with icing ,3,35,15,3
+California tuna roll ,15,35,5,4
+Sliced peach ,1,15,0,5
+Toast with cheese ,15,15,10,3
+Lentils ,9,20,1,5
+Sugar with aspartame sweetner ,0,100,0,2
+Liquorice ,3,83,0,2
+Fresh green aspargus ,2,4,0,5
+Abbey draught beer ,2,2,3,5
+Pizza Calzone slice ,10,30,25,3
+Bottle of still water ,0,0,0,5
+Protein powder ,25,3,2,4
+Diced mixed vegetables ,2,5,0,5
+Lemon ,1,3,0,5
+Bread (traditionnal French baguette) ,8,49,5,4
+Flaxseed Oil ,0,0,100,2
+Ham and cheese pizza ,10,25,15,3
+Plain yogurt cake ,5,45,20,2
+Cornish Pasty ,15,30,20,3
+Avocado maki ,10,20,5,4
+Chirashi ,15,40,5,4
+Orangina 33cL ,0,12,0,5
+Lamb's lettuce ,1,2,0,5
+Tuna roll ,15,30,5,4
+Fruit cereal bar ,2,65,8,3
+Aspartame sweetener ,0,99,0,2
+Profiteroles ,5,40,25,2
+Knuckle of ham ,20,0,15,4
+Einkorn white wheat flour ,14,71,1,5
+Gyoza ,8,20,8,3
+Dried Figs ,3,64,1,5
+Raspberry tart ,4,30,15,3
+Diet Coke 50cL ,0,0,0,5
+Orange cake ,5,45,20,2
+Banana split ,2,55,15,3
+Dried sage leaf ,11,52,12,3
+Herbes de Provence ,7,42,14,3
+Vegetable tian ,2,9,1,5
+Ferrero Rocher ,7,46,44,2
+Spiny Lobster ,20,0,1,4
+Fresh pumpkin ,1,7,0,5
+Green salad ,1,2,1,5
+Cushion of veal ,20,0,5,4
+Coconut water ,0,4,0,5
+Cinnamon powder ,3,81,1,5
+Monaco draught beer ,1,1,0,5
+Babybel ,21,0,24,2
+Grilled bell peppers ,1,6,3,4
+Diet Coke ,0,0,0,5
+Chicken nuggets ,18,13,12,3
+Beef stock cube ,12,12,12,3
+Vine tomatoes ,1,3,0,5
+Mimolette ,30,0,20,2
+Octopus ,28,2,2,4
+Sauerkraut ,1,3,0,5
+Parsnip ,1,12,0,5
+Calf sweetbread ,20,0,3,4
+Peas and carrots ,2,7,1,5
+Rye bread ,7,47,1,5
+Orange ,1,12,0,5
+Hush puppies ,5,20,10,3
+Sage powder ,10,60,10,3
+Dark hazelnut chocolate ,7,47,42,2
+Unleavened bread ,7,52,2,4
+Pear nectar ,0,14,0,5
+Fresh zucchinis ,1,3,0,5
+Ground beef (5% Fat) ,20,0,5,4
+Boletus mushroom ,3,21,3,4
+Spelt ,15,60,2,4
+Cherry pie ,4,36,20,2
+Sesame oil ,0,0,100,2
+Andouillette ,20,5,25,2
+Montbeliard sausage ,20,5,25,2
+Shortbread ,6,67,29,2
+Sliced Banana ,1,27,0,5
+Cooked white cabbage ,2,5,0,5
+Cuba libre ,0,10,0,5
+Shrimp ,20,0,1,4
+Beef Jerky ,33,1,7,4
+Lyon rosette ,30,0,40,2
+Chabichou ,20,0,18,2
+Minced meat pie ,18,25,15,3
+Chestnut flour ,6,72,1,5
+Dab ,18,0,1,4
+Whole artichoke ,3,11,1,5
+Pepsi Next 33cL ,0,8,0,5
+Clam Juice ,0,2,0,5
+White rice ,2,28,0,5
+Whole lime ,1,2,0,5
+Raw linguine ,12,71,1,5
+Unsweetened plain soymilk ,2,2,2,4
+Delicata squash ,1,6,0,5
+Potatoes gratin ,6,7,6,4
+Schweppes ,0,9,0,5
+Coulommiers ,20,0,20,2
+Custom pizza ,15,40,20,3
+Green vegetable mix ,2,7,0,5
+Melon juice ,0,10,0,5
+Sun-dried tomatoes in oil ,4,18,18,2
+Mashed vegetables ,2,14,5,4
+Agar Agar ,0,80,0,2
+Porto ,0,0,0,5
+Semolina pudding ,3,25,6,3
+Fresh ginger ,2,9,0,5
+Fresh peas ,5,14,0,5
+Pork chop (backbone) ,20,0,10,3
+Sugar-free strawberry jam ,0,65,0,5
+Worcestershire sauce ,0,6,0,5
+Mediterranean vegetable stock ,1,2,1,5
+Veal ribs ,20,0,20,2
+Toast with butter and honey ,2,25,20,2
+Poultry cordon bleu ,22,15,17,3
+Pho ,5,25,10,4
+Baked trout ,20,0,5,4
+Cupcake with icing ,4,34,19,2
+Cranberry juice ,0,12,0,5
+Morbier cheese ,23,0,28,2
+Red berry tart ,4,32,15,3
+Ketchup ,1,24,0,5
+Almond croissant ,8,42,22,2
+Endive and ham gratin ,20,6,12,3
+Melon ,1,8,0,5
+French dressing with olive oil ,0,7,14,3
+Tofu ,8,1,4,4
+White aspargus ,2,3,0,5
+Caesar Salad ,2,6,16,3
+Semi wholemeal rye flour ,13,70,2,4
+Kebab meat ,20,0,10,3
+Flat beans ,2,7,0,5
+Roast chicken ,30,0,7,4
+Blue cheese ,21,1,28,2
+Black Radish ,1,5,0,5
+Pineapple ,0,13,0,5
+Kiri ,16,5,16,3
+Chicken vol-au-vent ,13,18,22,2
+Swiss roll ,4,53,15,3
+Mars Ice Cream ,4,31,17,3
+Red chicory ,1,3,0,5
+Fruit juice ,0,11,0,5
+Lamb Skewer ,21,2,8,3
+Planteur punch ,0,18,0,5
+Soy Plain Yogurt ,3,5,2,4
+Veal cutlet ,20,0,9,3
+Schtroumpfs Haribo ,0,92,0,5
+Oyster ,9,2,2,4
+Cucumber maki ,2,21,1,5
+Cannoli ,5,44,22,2
+Bolognese lasagna ,12,18,8,3
+Coq au vin ,18,5,14,3
+Coconut muffin ,4,51,21,2
+Instant mashed potatoes ,1,27,0,5
+Whitin ,20,0,1,4
+Strawberries ,1,8,0,5
+Perch ,20,0,2,4
+Chocolate Liegeois ,5,20,8,3
+Bone broth ,1,0,0,5
+Melted butter ,0,0,100,2
+Pepsi ,0,11,0,5
+Vegetable quiche ,8,15,14,3
+Biscuit ,6,70,20,2
+Canned carrots ,1,6,0,5
+Petit suisse 0% ,4,10,0,5
+Chocolate cookie ,4,67,24,2
+Traditional pork rillettes ,22,0,40,2
+Chaource cheese ,20,0,28,2
+Hummus ,7,7,31,2
+Brie ,20,0,26,2
+Veal shank ,20,0,9,3
+Bread/strong flour ,11,61,1,5
+Milk ,3,5,3,4
+Twix ,6,65,21,2
+Pork terrine ,20,0,28,2
+Frozen peas ,5,14,0,5
+Poached egg ,13,1,10,3
+Pistachio ice cream ,3,23,15,3
+Scorpion fish ,20,0,5,4
+Milk chocolate ,6,55,31,2
+Vegetable gratin ,3,12,6,4
+Greek-style mushrooms ,6,4,7,4
+Zucchini flan ,6,7,5,4
+Rum baba ,5,47,21,2
+Chocolate Danette ,3,21,10,3
+Chili pepper ,2,7,0,5
+Quenelle ,10,8,16,2
+Acras ,20,20,15,2
+Cheese-cake ,6,25,18,2
+Tuna sashimi ,24,0,5,4
+Vegetable cream soup ,2,6,4,4
+Meatloaf ,20,8,15,3
+Cooked carrots ,1,8,0,5
+Chicken ham ,20,1,5,4
+Crepe with bechamel ham cheese and mushrooms ,10,20,20,2
+Beef and carrots ,20,5,10,3
+Krisprolls Golden Wheat ,12,70,11,3
+Wild boar stew ,20,5,10,3
+Cracker appetizers ,5,64,24,2
+Wild rice ,4,35,1,5
+Pasta with grated cheese ,12,47,14,3
+Caramelized pork ,22,8,20,2
+Corn oil ,0,0,100,2
+Vegetarian lasagna ,13,17,12,3
+Cheese fondue ,17,1,25,2
+Hare stew ,20,3,10,3
+Piemontese salad ,8,5,10,4
+Potato pancake ,8,12,15,3
+Fruit Yogurt ,4,18,4,4
+McDonald's Fries ,3,41,24,2
+Roast pork ,30,1,9,3
+Ground beef (16%) ,25,0,16,2
+Rutabaga ,1,8,0,5
+Red fruit tea ,0,0,0,5
+Apple Pie ,5,32,12,3
+Red berry coulis ,0,60,0,5
+Chestnut spread mousse ,3,30,14,3
+Pork cordon bleu ,20,8,15,3
+Coca-Cola 50cL ,0,11,0,5
+Lupin flour ,20,13,10,3
+Etorki ,25,0,30,2
+Prawn (in shell) ,20,0,3,4
+7 Up ,0,9,0,5
+Ice cream ,4,24,13,3
+Roasted chestnuts ,2,27,4,4
+Flax seed flour ,18,2,42,2
+Cod brandade ,20,3,25,2
+Cut avocado ,2,8,15,3
+Brownie ,5,48,28,2
+Orange flavored biscuit ,5,71,18,2
+French onion soup ,3,10,7,4
+Basmati rice ,7,77,1,5
+Oyster mushroom ,3,7,0,5
+Country bread ,10,46,3,4
+Basic risotto ,2,28,15,3
+Unsalted butter (60% Fat) ,0,0,60,2
+Anchovy in oil ,29,0,47,2
+Golden Apple ,0,13,0,5
+Leaf gelatin ,0,0,0,5
+Roast veal ,26,0,12,3
+French dressing ,0,7,14,3
+Foie gras ,20,5,50,2
+Apple cider vinegar ,0,0,0,5
+Beef rib steak ,21,0,25,2
+Acai bowl ,2,18,2,4
+Zucchini ,1,3,0,5
+Orangina ,12,12,0,5
+Grated Parmesan cheese ,38,4,28,2
+Curly endive salad ,1,2,0,5
+Hamburger bun ,9,52,5,4
+Dried Basil ,4,49,4,4
+Haggis ,10,15,25,2
+Hake ,20,0,1,4
+Flammekueche ,9,24,14,3
+Coffee Liegeois ,3,20,10,4
+Crab surimi ,14,15,10,3
+Tapioca starch ,0,0,100,1
+White almond puree ,56,12,8,3
+Krave ,11,6,72,1
+Raisins ,0.5,0.5,79,1
+Compote ,0.2,0.1,13,3
+Hot-do bun ,7,47,6,2
+Fresh peas and carrots ,4,11,1,5
+Candy apple ,0,30,0,5
+Broccoli ,3,7,0,5
+Edam ,25,0,30,2
+Bottle of water ,0,0,0,5
+Plain cereal bar ,4,69,14,2
+Nectarine ,1,12,0,5
+Raw Chinese cabbage ,1,3,0,5
+Belvita honey and chocolate ,7,62,19,2
+Ground thyme ,7,46,24,2
+Pastis shot ,0,0,0,5
+Walnuts (in shell) ,15,16,63,2
+Pasta all'arrabbiata ,12,25,5,4
+Chocolate doughnut ,6,40,26,2
+Schweppes Zero 33cL ,0,0,0,5
+Chicken McNuggets ,17,16,21,2
+Dried tarragon ,7,43,24,2
+Baby corn ,1,7,0,5
+Snails ,16,0,1,4
+Wholegrain spelt flour ,15,67,2,4
+Pumpkin ,1,7,0,5
+PadrÃ³n peppers ,1,4,3,4
+Chicken Knacki ,13,5,19,2
+Raw Tuna ,22,0,5,4
+Salted popcorn ,5,57,28,2
+Belgian Waffle ,13,47,21,2
+Detox Tea ,0,0,0,5
+Beef tenderloin ,22,0,6,4
+Fougasse ,7,51,12,3
+Argan oil ,0,0,100,2
+Custom tacos ,16,36,11,3
+Mini triangle Belin ,21,67,19,2
+Chicken Tabbouleh ,15,26,9,3
+Semi hard-boiled egg ,13,1,11,3
+Peas ,5,14,0,5
+Canned tuna in oil ,22,0,16,2
+Cookie ,5,65,26,2
+Shrimp and Grits ,14,38,22,2
+French nectarine ,1,14,0,5
+Cucumber ,1,3,0,5
+Sheperds pie ,11,10,6,4
+Chestnut spread ,2,65,2,4
+Sausage and lentils ,14,10,9,3
+Potato ,2,17,0,5
+Chicken filet ,22,1,2,4
+Sea bream sushi ,20,60,3,4
+Rice Chex cereal ,7,86,1,5
+Whey ,78,6,8,2
+Pretzel ,6,69,2,4
+Hot and sour soup ,2,5,3,4
+Savory cake ,15,19,16,3
+Fish soup ,7,1,3,4
+Corn flour ,1,88,1,5
+Nesquik ,7,89,2,4
+Grape seed oil ,0,0,100,2
+Pork cutlet ,20,0,13,3
+Speculoos ,5,69,22,2
+Scallops ,20,0,1,4
+Fruity Pebbles ,5,85,1,5
+Nachos ,7,49,27,2
+Sliced apple ,0,14,0,5
+Salmon carpaccio ,25,0,6,4
+Dark chocolate chips ,5,49,32,2
+Chole Chana Masala ,7,27,16,3
+Lumpfish roe ,4,3,2,4
+Activia Yogurt ,4,13,3,4
+Cheese SpÃ¤tzle ,15,32,20,2
+Wings ,20,0,25,2
+Tomato ,1,3,0,5
+Country terrine ,16,1,11,3
+Tomato juice ,0,3,0,5
+Pasta with salmon ,11,32,13,3
+Schweppes Lemon Zero 33cL ,0,0,0,5
+Soybeans ,14,16,9,3
+Ravioli ,6,25,8,3
+Chive ,3,1,0,5
+Frozen broccoli ,3,4,0,5
+Teriyaki chicken ,25,8,10,2
+Toffee ,0,90,17,2
+Canned eggplant ,0,4,0,5
+Lentil soup ,7,19,1,4
+Sprin roll (fried) ,3,20,8,2
+Pear ,0,15,0,5
+Coca-Cola 33cL ,0,10,0,5
+Merguez and fries baguette sandwich ,19,44,29,2
+Lobster Roll ,18,38,11,3
+Pork tenderloin ,23,0,4,4
+Sea Bream sashimi ,19,0,3,4
+Americano coffee ,1,0,0,5
+Desperados ,0,15,0,5
+Quince ,0,15,0,5
+Mullet ,19,0,5,4
+Pulled Pork Sandwich ,16,39,11,2
+Bulgur ,3,19,1,4
+Rice with tomato sauce ,2,24,4,4
+Huevos rancheros ,9,8,14,2
+Shrimp dumpling ,8,16,1,4
+Cream sauce ,2,4,12,2
+Pekin Duck ,20,7,38,2
+Gouda cheese ,25,2,33,2
+Sorghum flour ,10,76,3,3
+Tuna rillettes ,20,0,24,2
+Wholemeal rye flour ,9,63,2,4
+Virgin olive oil ,0,0,100,2
+Croque-madame ,17,24,27,2
+Grand Marnier ,0,15,0,5
+Cheese risotto ,11,25,8,3
+Mixed salad ,2,1,1,5
+Chocolate cake ,5,50,30,2
+Truffle risotto ,6,16,14,2
+Canned courgette ,1,3,0,5
+White sauce ,2,4,6,2
+Mango pearls ,0,18,0,5
+Dried bananas ,2,88,0,5
+Raw hulled barley ,12,73,2,3
+Cooked pearl barley ,2,23,0,5
+Lobster ,20,0,1,4
+Apricot nectar ,0,12,0,5
+Raw onions ,1,9,0,5
+Tuna quiche ,13,23,12,2
+Butter sauce ,1,1,15,2
+Light coconut milk ,1,3,1,5
+Coconut oil ,0,0,100,2
+Flaked almonds ,21,22,52,2
+7 Up 50cL ,0,12,0,5
+Watercress ,3,1,0,5
+Canned mackerel with mustard ,23,0,15,2
+Periwinkle ,19,0,0,5
+Ricotta and spinach lasagna ,12,22,6,3
+Sugar doughnut ,5,51,24,2
+Flaked crab ,16,5,2,4
+Horse steak ,22,0,8,2
+Protein shake ,18,5,1,4
+Skimmed milk ,3,5,0,5
+Mayonnaise ,1,2,79,2
+Wafer ,4,73,20,2
+Potato salad ,2,13,15,2
+Mornay sauce ,4,5,8,2
+Masala sauce ,4,7,10,2
+Parsley ,3,6,1,4
+Raw salmon ,20,0,7,4
+Pepsi Next ,0,8,0,5
+Strong draught beer ,2,1,0,5
+Chickpea flour ,22,58,6,2
+Blueberry Pancake ,6,40,15,2
+Chantecler Apple ,0,13,0,5
+Red leaf lettuce ,1,2,0,5
+Coffee with milk ,1,4,2,4
+Jaffa cake ,2,25,9,2
+Frog legs ,16,1,1,4
+Crumpet ,4,24,1,4
+Pasta Gratin ,8,24,9,2
+Toast with cream cheese ,11,30,15,2
+Vanilla cream ,2,20,23,2
+Pastis ,0,0,0,5
+Custom salad ,3,4,2,4
+Black trumpet mushroom ,2,7,0,5
+Raw green bell peppers ,1,6,0,5
+Red Bull ,0,11,0,5
+Sheep Milk Plain Yogurt ,4,5,7,2
+Coconut flakes ,3,24,67,2
+Beef sirloin ,25,0,15,3
+Soy cream ,3,2,10,2
+Pheasant ,24,0,2,4
+Snickers ,4,56,28,2
+Morteau sausage ,24,0,25,2
+Savoyarde pizza slice ,15,29,24,2
+Churros ,4,46,24,2
+Heart of beef ,20,0,7,4
+Baked Cod ,23,0,1,4
+Plain pancake ,4,25,5,2
+Salmon ,20,0,13,4
+Wholewheat sandwich bread ,9,39,2,4
+Beef skewer ,25,0,7,4
+Madeleine ,4,34,17,2
+California salmon roll ,14,33,7,3
+Bacon omelette ,15,2,12,2
+Arlequin ,3,82,4,2
+Crepe with bechamel ham and cheese ,11,22,18,2
+Blackberries ,1,9,1,5
+Lentil salad ,7,15,0,4
+Colombo spice mix ,0,22,3,4
+Crawfish ,20,0,0,4
+Strawberry juice ,0,10,0,5
+Tuna tartare ,20,0,5,4
+Fingers ,6,52,29,2
+Crepe with Nutella ,8,40,16,2
+Ice Tea Light 33cL ,0,4,0,5
+Potato wedges ,2,20,6,3
+"Toast with cheese, ham, tomato ",13,28,14,2
+Crepe with bechamel and ham ,11,21,17,2
+Pepperoni pizza slice ,13,25,16,2
+Coconut extract ,0,4,69,2
+Hot-do ,13,28,21,2
+Salmon tartare ,17,0,10,2
+Redcurrant ,1,8,0,5
+Herbal tea ,0,0,0,5
+Raw andouille ,20,0,20,2
+Honey ,0,82,0,2
+French dressing (50 to 75% oil) ,2,3,44,2
+Meringue ,0,79,0,2
+Pepperoni Pizza ,14,30,14,2
+Ramen ,10,25,8,3
+Roast beef ,25,0,8,4
+Spider crab ,17,0,1,4
+Pepsi 50cL ,0,11,0,5
+Ariane Apple ,0,12,0,5
+Lion Cereal ,6,73,2,2
+Eggplants ,1,6,0,5
+Konjac ,0,1,0,5
+Canned broccoli ,3,3,0,5
+Sunflower seed ,21,20,51,2
+English muffin ,8,53,3,3
+Vanilla Yogurt ,3,14,5,4
+High Protein Plain Yogurt (0%) ,10,3,0,4
+Sheep milk ,6,5,7,2
+Chocolate puff pastry ,6,43,25,2
+Chinese noodles ,9,26,1,3
+Duck breast ,22,0,16,2
+Cooked endives ,1,7,1,5
+Frosted Flakes ,1,88,0,5
+Veal brisket ,27,0,12,3
+Can of soda ,0,10,0,5
+Fried fish ,20,12,26,2
+Roast turkey ,28,0,14,3
+Protein bar ,25,15,6,2
+Fish quenelle ,13,9,4,3
+Whole cane sugar ,0,100,0,2
+Cake ,4,47,20,2
+Panna cotta ,3,21,14,2
+Sweet potato fries ,3,29,7,3
+Mozzarella ,22,1,19,2
+Butter croissant ,7,46,23,2
+Garlic salami ,22,2,18,2
+Broad beans ,9,15,1,4
+Beef hanger steak ,21,0,11,4
+Peppercorn sauce ,3,4,7,2
+Carrot cake without icing ,3,45,21,2
+Fresh lentils ,9,20,1,4
+Plum Pie ,2,37,17,2
+Boursin ,18,0,22,2
+Peanut oil ,0,0,100,2
+White spelt flour ,14,67,3,3
+Grilled Cheese Sandwich ,22,33,22,2
+Chicken wings ,22,0,20,2
+Sugar free hemp drink ,0,4,0,5
+Krisprolls Wholegrain ,10,62,11,3
+Beef cordon bleu ,21,15,7,2
+Cashew puree ,21,21,18,2
+Krisprolls Wholegrain (no sugar added) ,10,65,11,2
+CBO ,19,20,20,2
+Brique ,20,0,30,2
+Gelatin powder ,86,0,0,4
+3D's ,6,79,2,2
+Unsalted butter ,81,0,0,4
+Cottage cheese ,12,3,2,4
+Tarte Tatin ,2,30,21,2
+Sugar waffle ,5,58,23,2
+Sweet Plain Yogurt ,4,16,17,2
+Fruit in syrup ,0,21,0,2
+Raw mackerel ,18,0,9,4
+Schweppes Lemon 33cL ,0,10,0,5
+Goat cheese ,21,1,0,4
+Custom sandwich baguette ,12,47,5,3
+Bagel ,9,48,2,3
+Corn tortillas ,5,51,2,2
+Zucchini gratin ,8,6,10,2
+Margarine light ,19,0,41,2
+Wholegrain kamut flour ,14,63,3,3
+Decaffeinated coffee ,0,0,0,5
+Bratwurst ,16,5,20,2
+Gerlinea biscuit ,15,59,15,2
+Whole raw egg ,13,1,11,4
+Mirabelle plum jam ,0,67,0,2
+Royal Gala Apple ,0,14,0,5
+Blanched almond flour ,54,20,19,2
+Salmon roe ,26,0,14,2
+Sweet soy sauce ,3,63,5,2
+Canned white asparagus ,0,1,0,5
+Fudgesicle ,3,25,17,2
+Goat Milk Plain Yogurt ,3,4,4,2
+Curcuma ,10,64,9,2
+Fajitas ,10,19,9,2
+Fish terrine ,8,0,8,4
+Turnip ,0,6,0,5
+Fish nuggets ,15,22,11,2
+Canned green beans ,1,4,0,5
+Canned tuna ,24,0,1,4
+Bolognese sauce ,3,4,7,2
+Pumpkin soup ,1,7,3,5
+Unsweetened plain ricemilk ,0,2,0,5
+Chili powder ,18,49,15,2
+Beef kidneys ,20,0,9,2
+Kitkat ,7,63,26,2
+Coffee lungo ,0,0,0,5
+White whole wheat flour/wholemeal ,14,67,3,3
+Organic chocolate muesli ,6,63,10,2
+Chocolate Yogurt ,6,22,15,2
+Marmite spread ,0,24,0,5
+Crousti Soja ,29,8,43,2
+Sauteed vegetables ,2,8,7,2
+Toasted bread ,7,47,2,3
+Paella ,9,21,6,2
+Chicory coffee ,0,12,0,5
+Curry sauce ,4,4,8,2
+Christmas Cake ,2,44,18,2
+Pom'Potes ,0,12,0,5
+Ras el hanout ,9,13,6,2
+Pear pie ,3,38,25,2
+Mix of cooked peppers ,2,6,3,2
+Soy patty ,13,11,8,2
+Fresh egg pasta ,15,27,1,4
+Canned crab ,0,1,0,5
+Skimmed milk powder ,0,52,1,5
+Apricot jam ,0,64,0,2
+Fried rice ,4,26,6,2
+Cereal and/or muesli yogurt ,3,15,14,2
+Green tea ,0,0,0,5
+Toast with rillettes ,7,21,18,2
+Sriracha ,1,15,12,2
+Tiramisu ,7,22,19,2
+Pastrami ,23,0,8,2
+Knacki ,15,4,7,2
+Sangria ,0,19,0,5
+Eel ,20,0,15,2
+Chicken cordon bleu ,16,15,16,2
+Ravioli with tomato sauce ,6,14,8,2
+Garlic bread ,14,42,9,2
+Exotic chinese soup ,2,2,6,2
+Merguez ,18,4,6,2
+Raw Cauliflower ,0,5,3,5
+Bresaola ,2,1,1,4
+Apricot tart ,12,33,17,2
+Raspberry cake ,4,43,27,2
+Gluten-free bread ,7,43,13,2
+Crispbread ,3,73,3,4
+Beefsteak tomatoes ,1,4,2,4
+Cantal ,21,0,1,4
+Custard cream ,2,15,5,2
+Dried parsley ,5,47,12,2
+Chocolate mousse ,10,20,26,2
+Coleslaw ,2,6,14,2
+Dry salami ,37,2,2,2
+Low-fat cheddar (4%) ,17,2,4,2
+Frozen eggplant ,1,6,6,2
+Yam beans ,1,18,0,5
+Unsweetened plain almondmilk ,1,0,0,5
+Black fungus ,4,8,0,5
+Raw buckwheat pasta ,2,12,0,5
+Parmesan ,28,4,2,2
+Capers ,0,5,1,4
+Celeriac with remoulade dressing ,0,13,12,2
+Strawberry ice cream ,8,25,26,2
+Watermelon ,1,8,0,5
+Red cabbage ,0,6,0,5
+Hazelnut ice cream ,7,23,22,2
+Grapefruit juice ,0,8,0,5
+Dried apricots ,2,64,0,2
+Chicken le ,20,0,11,2
+Spinach salad ,2,3,3,2
+Salsify ,0,13,0,5
+Cachir ,18,0,16,2
+Sprite 33cL ,0,10,8,2
+Smoked sausage ,22,1,9,2
+Flax seeds ,42,29,1,4
+Gazpacho ,1,5,3,2
+Dogfish ,21,0,0,2
+Walnut bread ,7,41,27,2
+Apricot ,0,11,0,5
+Cumin ,23,0,17,2
+Pepsi Next 50cL ,0,11,0,5
+Dried egg pasta cooked ,5,25,2,4
+Carrot soup ,2,7,4,2
+Alcohol-free draught beer ,0,3,0,5
+Buckwheat flour ,3,64,11,2
+Artichoke heart ,1,7,1,2
+Strawberry milkshake ,3,20,14,2
+Canned white beans ,1,14,0,5
+Paupiette ,9,0,12,2
+Whole kiwi ,0,15,1,5
+Veal chop ,20,0,5,2
+Pickles ,0,3,1,5
+Salt-free vegetable stock cube ,0,0,0,5
+Gratin ,12,7,11,2
+Rum shot ,0,0,0,5
+Cheeseburger ,13,19,21,1
+Ebly Pure Durum Wheat ,13,34,1,3
+Amaranth flour ,13,67,8,4
+Turkey cordon bleu ,25,9,13,2
+Cereal bar ,2,63,17,2
+Sea bream ,19,0,4,5
+Oyster sauce ,0,4,0,5
+Plain scone ,6,47,9,2
+Wine vinegar ,0,0,0,5
+Vanilla milkshake ,4,31,8,2
+Oil ,0,0,100,1
+Sweet potato flour ,3,89,1,4
+Coco pops ,2,85,1,4
+Religieuse ,12,39,18,1
+Bacon ,15,0,24,2
+Falafel ,14,14,22,1
+Double cream (30% fat) ,2,3,30,1
+Soda ,0,11,0,5
+Irish pudding ,12,12,23,1
+Faggots ,11,10,18,1
+Hard-boiled egg ,13,1,10,3
+Steamed cod ,20,0,1,4
+Flammekueche slice ,10,21,13,1
+Boskoop Apple ,0,12,0,4
+Jam doughnut ,6,48,18,1
+Chouquette ,5,45,15,1
+Cosmopolitan ,0,14,0,3
+Dark chocolate chips sugar-free ,0,31,47,1
+Ricotta ,11,4,10,3
+Basil ,3,3,1,5
+Prawns ,20,0,2,5
+Baking soda ,0,0,0,5
+Lime ,0,11,0,5
+Beet salad ,1,14,0,4
+Spaghetti ,7,25,1,4
+Pizza Regina ,11,31,12,1
+Broth ,0,0,0,5
+Fresh green beans ,2,7,0,5
+Scandinavian salad ,2,3,6,3
+Raspberry ,1,12,1,4
+Mango ,1,14,1,4
+Iced coffee ,1,12,2,4
+Quinoa flour ,14,64,7,4
+Veal blanquette ,11,4,4,3
+Split peas ,9,16,1,4
+Fruit bar ,1,56,2,4
+Romaine lettuce ,1,2,0,5
+S'more ,4,56,24,1
+Fried egg candy ,0,90,0,1
+Sucrine ,1,1,0,5
+Celery salad ,1,3,0,5
+High Protein Plain Yogurt (3%) ,3,5,3,4
+Teff flour ,13,73,2,3
+Cassoulet ,11,11,11,1
+Cereal bread ,9,46,5,3
+Club sandwich ,14,36,29,1
+Crackers ,10,73,21,1
+Blue lin ,17,0,1,4
+Chorizo ,22,1,32,1
+Breakfast biscuit ,6,62,25,1
+Donut ,7,49,19,1
+Dried dates ,2,64,0,3
+Coca-Cola Zero ,0,0,0,5
+Raw orange bell peppers ,1,9,0,5
+Baked beans ,5,14,1,4
+Onion rings ,4,20,7,2
+Pastry/soft flour ,1,69,1,4
+Rhubarb cooked ,0,12,1,4
+Whisky sour ,0,10,0,5
+Port-Salut ,24,0,29,1
+Egg whites ,11,0,0,5
+Scrambled eggs ,12,2,11,2
+Peeled kiwi ,1,9,1,4
+Smoked trout ,20,0,8,2
+New potatoes ,2,20,0,5
+Chocolate cereals ,6,85,2,3
+Toast with apricot jam ,4,31,1,4
+Mushroom omelette ,14,2,15,2
+Brown rice ,2,23,1,4
+Croutons ,5,45,22,1
+Figs ,1,19,0,4
+Surffizz ,0,4,4,3
+Coconut sugar ,0,100,0,1
+Muffin ,6,50,23,1
+Spelt bread ,9,39,2,4
+Plain diced bacon ,11,0,45,1
+Avocado toast ,20,33,25,1
+Almonds ,21,22,49,2
+Alsatian-style sauerkraut ,1,2,5,5
+Whole lemon ,1,3,0,5
+Fleur de sel ,0,0,0,5
+Fresh broccoli ,3,7,1,4
+Carambar ,0,85,2,1
+Night Pro ,79,0,11,2
+Cooked red cabbage ,1,8,2,4
+First clear/hard flour ,0,72,1,4
+Brussel sprouts ,3,9,1,4
+Meat cannelloni ,12,19,10,2
+Peanut butter 100% ,25,12,13,2
+Frozen white asparagus ,1,2,1,5
+Tapenade ,0,6,22,1
+Cooked yellow bell peppers ,1,5,2,4
+Maultaschen ,10,18,19,1
+Red wine sauce ,1,5,4,4
+Cooked broad beans ,1,9,2,4
+Fish vol-au-vent ,12,18,21,1
+Cocktail Weenie ,16,2,22,1
+Crocodiles ,1,76,0,1
+Candy Mixes ,0,83,4,1
+Sauteed beef ,25,0,5,2
+Morel ,2,10,3,4
+Anchovies ,9,0,6,2
+Raw bell peppers ,1,6,0,5
+Plain Whole Milk Greek Yogurt ,5,4,3,4
+Pound cake ,7,55,22,1
+Pasteis de Nata ,10,30,25,1
+Damas Plum ,0,16,0,4
+Oil blend ,0,0,100,1
+Merguez baguette sandwich ,16,38,26,1
+Brioche ,9,49,11,2
+Tomato quiche ,17,18,8,2
+Mille-feuille ,35,44,22,1
+Pork and cabbage hotpot ,9,2,6,3
+Crottin de Chavignol ,26,0,23,1
+Dried cranberries ,0,82,0,1
+Smoked herring ,16,0,12,2
+Fresh carrots ,1,7,1,4
+Crepe with bechamel filling ,11,22,13,2
+Tamari soy sauce ,0,4,7,2
+Pine nuts ,34,19,20,1
+Butterscotch ,11,84,13,1
+Emmental ,28,0,0,5
+Frozen red fruits ,1,14,0,4
+Monaco Belin ,13,65,12,2
+Canned salsify ,2,4,3,4
+Liquid Vanilla ,0,40,3,4
+Toast with butter and strawberry jam ,9,44,23,1
+Special K Chocolate ,6,76,1,3
+Citrus juice ,0,11,0,5
+Mirabelle plum ,0,9,0,4
+Pi snout ,2,2,2,5
+Apple tart ,10,39,18,1
+Plum ,0,11,0,4
+Hamburger ,16,29,15,2
+Whipped cream ,3,3,19,1
+Floating island ,12,25,17,1
+Strawberry jam biscuit ,5,62,15,1
+Chocolate-covered coffee beans ,9,60,25,1
+Duck confit ,23,0,8,2
+Vegetable stock cube ,0,0,0,5
+Glass of flavored water ,0,0,0,5
+Lollipop ,0,98,0,1
+Porcini Mushroom ,3,5,1,4
+Vanilla ice cream ,8,23,14,2
+Frozen green asparagus ,2,4,1,4
+Vegetable terrine ,3,3,2,4
+Cheese omelette ,17,2,16,1
+Quesadillas ,15,31,25,1
+Twelfth-Night cake ,5,48,32,1
+Roast pork shoulder ,22,0,15,2
+Mushroom sauce ,7,2,4,3
+Peanut butter ,25,11,25,1
+Rouladen ,3,2,2,4
+Jam ,0,57,54,1
+Fresh tarragon ,7,14,1,4
+Benedict egg ,10,0,5,2
+Mikado ,22,71,47,1
+Mars ,4,64,21,1
+Red Plum ,0,10,0,4
+Crepe with sugar ,5,25,17,2
+Frozen blueberries ,0,14,0,4
+Chocolate Crepe ,12,39,30,1
+Endive salad ,1,4,1,4
+Marinated Fish Ceviche ,3,0,4,5
+Semi-salted butter (40% Fat) ,34,1,1,4
+Smoothie ,2,11,8,2
+Minute Maid 33cL ,0,8,8,2
+Plantain ,0,31,2,3
+Beef carpaccio ,0,0,0,5
+Canadian bacon ,2,1,1,4
+Marinated salmon ,0,0,0,5
+Persimmon ,1,18,0,4
+Beef roast ,0,0,0,5
+Liqueur shot ,0,10,0,3
+ValenÃ§ay ,26,0,0,5
+Grapefruit ,0,6,0,5
+Sweet potato ,0,21,0,4
+Feta cheese ,21,1,0,5
+Rosette and butter baguette sandwich ,20,47,21,1
+Unsweetened shredded coconut ,64,6,7,1
+Munster ,28,0,0,5
+Chocolate ice cream ,10,22,23,1
+Custom burrito ,10,29,14,2
+Pout ,0,19,0,3
+Xylitol ,0,100,0,1
+Energy drink ,0,11,9,2
+Soy flour ,1,30,8,2
+Julienned vegetables ,0,4,1,4
+Fried egg (without added fat) ,12,1,9,2
+Wax beans ,0,3,1,4
+Pita bread whole wheat ,1,51,1,4
+Activia Vanilla Yogurt ,11,13,14,2
+Gizzards ,4,2,1,4
+Gingerbread ,2,64,32,1
+Lamb tajine ,4,8,2,4
+Oasis Zero 33cL ,0,8,0,5
+Fourme d'Ambert ,29,0,0,5
+Apple juice ,0,11,10,2
+Fraises Tagada ,0,92,87,1
+Nuggets ,16,15,11,2
+Red wine ,0,2,0,5
+Vienna bread ,4,49,2,4
+Coca-Cola Life ,0,11,7,2
+Amaranth ,7,66,15,1
+Powdered sugar ,0,100,0,1
+Cheerios ,7,82,3,3
+Horseradish ,0,7,1,4
+Rapeseed oil ,0,0,100,1
+Scallop ,0,2,0,5
+Sugar-free raspberry jam ,0,7,0,5
+Walnut oil ,0,0,100,1
+Cooked green bell peppers ,0,4,1,4
+Vegetarian pizza ,8,27,16,2
+Whole almond puree ,54,6,21,1
+Strawberry gateau ,2,26,21,1
+Gin tonic ,0,17,0,4
+Crepe (ham and cheese) ,10,20,13,2
+Chocolate waffle ,11,44,34,1
+Einkorn whole wheat flour ,7,61,1,4
+French toast ,8,29,22,2
+Smoked haddock ,1,0,0,5
+Compote no added sugar ,0,12,0,4
+LU Petit Beurre biscuits ,15,70,22,1
+Bottle of flavored water ,0,0,0,5
+Bottle of beer ,0,2,0,5
+Pineapple juice ,0,13,0,4
+Guinea fowl le ,22,0,1,4
+Celery Stalk ,0,3,0,5
+Coca-Cola Zero 33cL ,0,0,0,5
+Tahini ,54,17,1,4
+Brazil nuts ,15,12,4,3
+Rice pudding ,2,15,10,2
+Pasta Carbonara ,15,22,10,2
+Risotto ,1,24,4,3
+Baked turbot ,0,0,0,5
+Veal shoulder roast ,0,0,0,5
+Fresh lemongrass ,0,31,2,4
+Meat pie ,11,23,15,2
+Half-baked chocolate cake ,9,51,31,1
+Cured ham ,1,1,0,4
+Blueberry pie ,7,33,25,1
+White wine ,0,2,0,5
+Clotted Cream ,63,4,0,5
+Tuna maki ,8,19,15,2
+Pasta salad ,11,14,5,3
+Beef steak ,21,0,3,4
+Toast with butter and apricot jam ,8,38,22,1
+Pureed celery root ,0,4,3,3
+Gummy candy ,0,83,60,1
+Mango juice ,0,14,0,4
+Oatmeal (water) ,1,9,2,4
+Shelled almonds ,49,22,21,1
+Sprin roll ,5,23,9,2
+Chocolate milk ,2,13,8,2
+Rice vinegar ,0,0,0,5
+Fricadelle ,14,6,11,2
+Whole milk ,3,5,4,3
+Skewer ,14,2,13,2
+Almond extract ,0,100,0,1
+Shrimp fritters ,7,16,14,2
+Plain buckwheat crepe ,3,19,1,4
+Beef cheek ,7,0,6,2
+Green olives ,12,3,0,4
+Brandy shot ,0,0,0,5
+Cooked celeriac ,1,9,0,4
+Croque-monsieur ,16,23,24,1
+Empanadas ,16,34,16,2
+Fruit tart ,15,37,24,1
+Black beans ,1,22,1,4
+Brains ,10,0,6,2
+Crepe with caramel ,10,39,29,1
+Hollandaise sauce ,26,3,3,3
+Hare ,1,0,0,4
+Lettuce ,0,2,1,4
+Paraffin oil ,0,0,0,5
+Strawberry tartlet ,5,26,18,2
+Clam Chowder ,6,9,10,2
+Palak Paneer ,4,5,4,3
+Paprika ,14,44,25,1
+Maki cheese ,16,24,23,1
+Fresh lemon juice ,0,3,2,4
+Caviar ,0,0,0,5
+Infusion ,0,0,0,5
+Tabbouleh ,3,16,1,4
+Shortcrust pastry ,37,44,37,1
+Margarine ,80,0,0,1
+Diced bacon ,8,0,11,2
+Hemp flour ,33,15,11,2
+Pizza Quattro Stagioni slice ,12,19,8,2
+Pink Potato ,2,18,1,4
+Navette biscuit ,2,69,36,1
+Mushrooms ,1,3,0,4
+Salt pork with lentils ,11,6,3,3
+Conference Pear ,0,15,0,4
+Bottled alcohol-free beer ,0,0,0,5
+Petit Ecolier milk chocolate ,22,68,21,1
+Artichoke bottom ,0,2,0,5
+Steamed salmon ,11,0,0,4
+Prince Cookies ,17,73,26,1
+Lemonade ,0,10,10,1
+Pont-l'Ã‰vÃªque ,24,1,1,4
+Pistou soup ,0,8,3,3
+Beaufort ,28,0,0,4
+Smoked salmon ,11,0,0,4
+Candy bar ,30,58,16,1
+Carrots ,0,6,4,3
+Pickled Herrin ,12,8,7,2
+Leek and potato soup ,2,8,4,3
+Chicken tikka masala ,9,8,7,2
+Pork knuckle ,0,0,0,5
+Vanilla Danette ,6,20,15,2
+Soft-boiled egg ,5,0,4,3
+Paris-Brest ,18,26,29,1
+Black grape ,0,18,16,2
+Bottled abbey beer ,0,2,0,5
+Hazelnut powder ,62,17,6,2
+Bottled stron beer ,0,3,0,5
+Garlic ,0,33,1,4
+Thai Chicken ,4,4,2,4
+Goat cheese lo ,28,0,0,4
+Ice Tea 50cL ,0,3,3,3
+Beef flank steak ,21,0,3,4
+Goose ,0,0,0,5
+Red berry crumble ,9,28,26,1
+Flanby ,5,17,14,2
+Whole avocado ,15,9,2,4
+Stuffed tomatoes ,2,11,4,3
+Scampi (with shell) ,1,1,0,4
+Raw endive ,0,3,1,4
+Fresh coriander ,0,3,3,3
+Chicken risotto ,4,22,2,4
+Semi-skimmed goat milk ,3,4,3,3
+Gratin dauphinois ,12,9,5,3
+Walnuts ,65,14,7,2
+Schweppes 33cL ,0,8,7,2
+Oasis ,0,4,4,3
+Skyr ,0,3,3,3
+Apple ,0,14,10,2
+Raw red bell peppers ,0,6,4,3
+Cashew nuts ,46,27,22,1
+Medjool date ,0,64,0,4
+Sea Bass ,0,0,0,5
+Salmon panini ,12,42,19,1
+Coconut ,33,15,3,3
+Camembert and butter baguette sandwich ,27,19,27,1
+Moussaka ,5,7,3,3
+Cuttlefish ink pasta ,2,74,5,2
+Passata ,2,5,2,4
+Warty venus ,0,0,0,5
+Suprem Force 7 ,0,0,0,5
+Krema ,2,3,0,4
+Tater tot ,13,22,14,2
+Bouillabaisse ,5,2,0,4
+Cocktail sauce ,0,26,5,2
+Saint-Paulin ,25,1,0,4
+Beef pie ,12,24,20,1
+White chocolate chips ,36,58,50,1
+Red lentils ,1,16,1,4
+Soluble coffee ,0,1,0,5
+CaÃ¯pirinha ,0,17,17,1
+Cherries ,1,13,9,2
+Stevia ,0,96,0,4
+Steamed dumplings ,2,15,6,3
+White beans ,0,16,1,4
+High Protein Vanilla Yogurt (0%) ,0,7,4,3
+Frozen french fries ,12,27,1,4
+Mini pizza Belin ,21,64,14,2
+Mango ice cream ,12,23,22,1
+Pesto ,42,14,2,4
+Orangina 50cL ,0,11,10,2
+Grison meat ,7,0,34,2
+Mashed sweet potatoes ,1,21,20,1
+Wholewheat bread ,8,41,3,4
+Olive bread ,11,37,4,4
+Avocado oil ,0,0,0,5
+Fjord Yogurt ,3,11,9,2
+Cooked Chinese cabbage ,1,3,5,3
+Home fries ,11,18,26,1
+Coffee Latte ,7,9,4,3
+Tapioca ,0,16,0,4
+Maroilles ,25,0,0,4
+Custom toast ,7,39,5,3
+Canary melon ,0,8,7,2
+Creamy chicken ,4,2,6,3
+Ranch dressing ,0,0,5,3
+Rhubarb tart ,12,29,29,1
+Sardine in oil ,14,0,0,4
+Filled waffle ,12,41,31,1
+Haddock ,0,0,0,5
+Dill powder ,3,55,14,2
+Strawberry BN ,13,72,65,1
+Eggplant caviar ,7,8,12,3
+Tacos ,20,30,33,1
+Reblochon ,28,0,0,4
+Wasabi ,0,6,14,2
+Lamb stew ,4,1,1,4
+Apple crumble ,9,28,26,1
+Harissa ,2,6,18,2
+Clementine wedges ,0,9,8,2
+Bottled blond beer ,0,2,3,3
+Dry cider ,0,3,7,1
+Custom fajitas ,5,9,5,3
+Basic crepe ,6,35,14,2
+Tripe ,12,2,1,4
+Weetabix cereals ,3,67,14,2
+Canned mackerel in escabeche ,10,0,0,4
+Hard boiled egg white ,0,0,0,5
+Blini ,6,33,14,2
+Corn flakes ,3,87,1,4
+Pork brisket ,21,0,0,4
+Ice Tea ,0,3,2,3
+Tuc ,13,68,18,1
+Nutritional yeast ,0,14,13,2
+Buttermilk ,0,5,4,3
+Spaghetti squash ,0,7,4,3
+Mussels ,2,7,3,3
+Ricotta and spinach quiche ,16,20,15,2
+Canned green asparagus ,1,1,2,4
+Toast with butter ,10,49,14,2
+Ham Croissant ,13,37,18,2
+Cabbage ,0,6,3,3
+Sprite 50cL ,0,10,9,2
+Cooked rice ,1,28,30,1
+Vegetable soup ,1,6,5,3
+Duchess potatoes ,1,23,8,3
+Pizza Quattro Stagioni ,11,26,5,3
+Cheddar ,0,1,0,5
+Peach Melba ,1,21,15,2
+Raw red onion ,0,9,2,4
+Nuoc mam sauce ,0,6,10,2
+Chanterelle mushroom ,1,2,2,4
+Raw carrots ,0,7,9,2
+Brown mushrooms ,0,1,0,5
+White grape ,0,17,16,2
+Cherry tomatoes ,1,3,2,4
+Cheese sauce ,3,3,5,3
+Dark draught beer ,0,1,4,3
+Lebanese tabbouleh ,1,20,9,2
+Taramasalata ,6,5,4,3
+Bread (French baguette) ,1,52,2,4
+Chorba ,4,6,2,4
+Duck ,0,0,0,5
+Wholegrain rice flour ,1,79,1,4
+Wholegrain rye flour ,2,64,2,4
+Coca Cola Life ,33,8.3,0,2
+Veal stew ,25.5,10,3.8,4
+Honey Pops ,6,85.3,0.5,2
+Tea biscuits ,2.2,69.2,20.3,3
+Cheese ravioli ,14,28.6,8.3,3
+Stuffed Fresh pasta ,11.6,29.2,5,4
+Beef nuggets ,14,15,14,3
+Tomato salad ,1.2,3.9,0.2,5
+Squid ,18,3.3,0.8,5
+Hazelnuts ,14.1,16.7,61.2,4
+Unsweetened coconut milk ,2.1,1.9,21,4
+Oats ,16.9,66.3,6.9,4
+Glass of water ,0,0,0,5
+Chocolate cereal bar ,2,68,18,3
+Cheese pizza ,12.8,27.2,10.8,3
+Spinach ,2.9,3.6,0.4,5
+Ground beef (20% Fat) ,20,0,22,3
+Hawaiian pizza slice ,8.5,29.2,13.8,3
+Special K Original ,17.5,67.5,1.5,4
+Gorgonzola ,19,0.5,29,2
+Apricot compote ,0.5,20,0.5,5
+Orange juice ,0.8,8.2,0.2,5
+Vegetarian pizza slice ,7.6,24.6,7.6,3
+Ginger powder ,3.6,71.6,1.9,4
+Unsweetened white grape juice ,0.5,14,0,5
+Mushroom soup ,2.6,2.8,5.4,5
+Actimel ,3.8,11.5,1.5,5
+Canned chickpeas ,8.7,27.4,2.8,5
+Grape juice ,0.6,16.5,0.1,5
+Oat flour ,13,66.5,7.1,4
+Leek quiche ,9.4,18,20.5,3
+Blueberries ,0.7,14.5,0.3,5
+Passion fruit ,2.2,23.6,0.7,5
+Reinette Apple ,0.3,13.5,0.3,5
+Apple nectar ,0.1,10.8,0.1,5
+Custom quesadilla ,23,22.6,28,2
+Puff pastry ,5.6,21.2,36.7,2
+Halibut ,17.2,0,0.7,5
+All-purpose/plain flour ,10.3,73.4,1.3,3
+Banana Haribo ,0.5,86.5,0.5,2
+Papaya ,0.5,9.6,0.3,5
+Veal liver ,21,0,3,5
+Crepe (egg ham and cheese) ,13.5,20,17.5,3
+Milk chocolate chips ,5,60,24,2
+Toast with red berry jam ,2.7,41.8,8.6,4
+Non-fat Fruit Yogurt ,5,14,0.2,5
+Coffee Mocha ,3.3,16.6,8.3,3
+Chicken meatballs ,18.5,3.2,14,4
+Pistachios ,21.4,8.2,44.4,2
+Fresh thyme ,1.6,24,1.7,4
+Black pudding ,19,7,17,3
+Quinoa ,14.1,64.2,6.1,4
+Celery ,0.7,2.9,0.2,5
+Celeriac salad ,1.5,4.9,6.3,5
+Granny Smith Apple ,0.5,13.4,0.2,5
+Bottle of soda ,0,11.5,0,4
+Millet flour ,11,70,3.5,4
+Salmon wrap ,17,17,8,4
+Dutch cheese ,25,0,29,2
+Semi-skimmed milk ,3.4,4.7,1.6,5
+Hamburger McDonald's ,12.5,33,12.5,3
+Fruit scone ,5,48,12,3
+Pizza Regina slice ,11,35,12,3
+Pizza slice with toppings ,11.4,35.8,15.5,3
+Nesquick cereal ,7.5,81,2,2
+Salmon Spread ,14,1.4,38.6,2
+Kamut flour ,15.4,66.9,2.4,4
+Ham bacon ,22,1.1,9.3,3
+Porridge with water ,2.8,12.3,1.3,5
+Cobb salad ,8.3,6.2,26.4,3
+Venison stew ,23,9.5,4.8,4
+Sweet and sour sauce ,0.5,29,0.5,3
+Coffee Ice cream ,3,21,14,2
+Soy milk ,3.3,1.7,1.8,5
