@@ -13,7 +13,7 @@ const Camera = ({ navigation, setFoods }) => {
         if (photoUri) {
             const getFoodNames = async () => {
                 try {
-                    const url = 'http://localhost:8000/'
+                    const url = 'https://drexel-codefest-2024-3.onrender.com'
                     const endpoint = 'picture'
                     const formData = new FormData();
                     formData.append('file', {

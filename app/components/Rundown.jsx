@@ -8,7 +8,7 @@ const Rundown = ({ foods }) => {
 
     useEffect(() => {
         const getRecommendations = async (food) => {
-            const url = 'http://localhost:8000/'
+            const url = 'https://drexel-codefest-2024-3.onrender.com'
             const endpoint = 'recommendations'
             try {
                 const response = await axios.get(`${url}${endpoint}?food_name=${food}&number_of_recommendations=5`) //pass in food name
