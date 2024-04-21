@@ -1,6 +1,8 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, File, UploadFile
 from food_recommender import recommend_food
 from gettingUserPhoto import getSearchImage
+import requests
+import uuid
 
 app = FastAPI()
 
