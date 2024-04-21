@@ -1,18 +1,23 @@
-
 import { View, Text, Image, StyleSheet } from 'react-native'
 import { useState, useEffect } from 'react'
 
-const ItemRecommendation = ({ recommendations }) => {
+const ItemRecommendation = ({ originalFood, recommendations }) => {
+
+    /*
+    const [recommendationURLs, setRecommendationURLs] = useState([])
+    useEffect(() => {   
+
+    }, [recommendations])
+    */
 
     return(
         <View>
             <View style={styles.FoodOverlay}>
-                <Text style={styles.FoodText}></Text>
+                <Text style={styles.FoodText}>{originalFood}</Text>
             </View>
-            {recommendations.map((recommendation) => (
-                <View>
+            {recommendations.map((recommendation, index) => (
+                <View key={index}>
                     <Text>{recommendation}</Text>
-                    <Image source={{uri: recommendationURLs[recommendations.indexOf(recommendation)]}}/>
                 </View>
             ))}
         </View>
@@ -35,7 +40,6 @@ const styles = StyleSheet.create({
         padding: 10,
         fontFamily: 'Inter-Regular'
     }
-}
-
+})
 
 export default ItemRecommendation

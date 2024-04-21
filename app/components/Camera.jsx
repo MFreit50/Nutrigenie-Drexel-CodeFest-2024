@@ -13,9 +13,19 @@ const Camera = ({ navigation, setFoods }) => {
         if (photoUri) {
             const getFoodNames = async () => {
                 try {
-                    const response = await axios.get('https://jsonplaceholder.typicode.com/posts')
+                    const url = 'http://localhost:8000/'
+                    const endpoint = 'picture'
+                    const formData = new FormData();
+                    formData.append('file', {
+                        uri: photoUri,
+                    });
+                    const response = await axios.post(url + endpoint, formData, {
+                        headers: {
+                            'Content-Type': 'multipart/form-data',
+                        },
+                    })
                     //parse response to get foodNames?
-                    setFoods(response.data)
+                    setFoods(response.data["foods"])
                     console.log("RESPONSE", response)
                 } catch (error) {
                     console.log("ERROR", error)

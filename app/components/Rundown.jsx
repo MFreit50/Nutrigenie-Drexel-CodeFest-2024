@@ -8,11 +8,13 @@ const Rundown = ({ foods }) => {
 
     useEffect(() => {
         const getRecommendations = async (food) => {
-            const url = 'https://jsonplaceholder.typicode.com/'
-            const endpoint = 'dummyendpoint'
+            const url = 'http://localhost:8000/'
+            const endpoint = 'recommendations'
             try {
-                const response = await axios.get(`${url}${endpoint}?food=${food}`) //pass in food name
-                return response.data; //check if response.data is the right value
+                const response = await axios.get(`${url}${endpoint}?food_name=${food}&number_of_recommendations=5`) //pass in food name
+                const data = response.data["recommendations"]
+
+                return data; //check if response.data is the right value
             } catch (error) {
                 console.log("ERROR", error)
             }
@@ -21,7 +23,8 @@ const Rundown = ({ foods }) => {
         const fetchRecommendations = async () => {
             const newRecommendations = {};
             for (let food of foods) {
-                newRecommendations[food] = await getRecommendations(food);
+                const foodRecommendations = await getRecommendations(food);
+                newRecommendations[food] = foodRecommendations;
             }
             setRecommendations(newRecommendations);
         }
@@ -51,6 +54,7 @@ const Rundown = ({ foods }) => {
             <View style={styles.FactsOverlay}>
                 <Text style={styles.FactsText}>Alternative Recommendations</Text>
             </View>
+            <View style={styles.flex}>
             {
                 recommendations.map((recommendation, i) => {
                     return (
@@ -58,6 +62,7 @@ const Rundown = ({ foods }) => {
                     )
                 })
             }
+            </View>
         </View>
 
 
@@ -71,6 +76,12 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center',
         backgroundColor: '#ebebe8',
+        gap: 50
+    },
+    flex: {
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center',
         gap: 50
     },
     BreakdownBackground: {
