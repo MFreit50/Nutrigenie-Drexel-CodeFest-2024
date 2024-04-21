@@ -17,17 +17,17 @@ class FoodRecommender(nn.Module):
         x = self.hidden_layer(x)
         return x
 
-food_nutrition_facts, food_names, nutri_scores = load_dataset(dataset)
-
-#Combine food nutrition facts and nutri score into one tensor
-food_data = torch.cat((food_nutrition_facts, nutri_scores.unsqueeze(1)), dim=1)
-
-#Load the model
-model = FoodRecommender(input_size=4, hidden_size=11)  # Assuming input_size and hidden_size are known
-model.load_state_dict(torch.load('food_recommender_model.pth'))
-model.eval()
 
 def recommend_food(input_food_name, number_of_recommendations):
+    food_nutrition_facts, food_names, nutri_scores = load_dataset(dataset)
+
+    #Combine food nutrition facts and nutri score into one tensor
+    food_data = torch.cat((food_nutrition_facts, nutri_scores.unsqueeze(1)), dim=1)
+
+    #Load the model
+    model = FoodRecommender(input_size=4, hidden_size=11)  # Assuming input_size and hidden_size are known
+    model.load_state_dict(torch.load('food_recommender_model.pth'))
+    model.eval()
     #Find the best match for the input food item
     input_food = torch.tensor(search_food(input_food_name), dtype=torch.float32)  # Add nutri-grade value here
     #Cosine similarity between the input food item and each food item in the dataset with nutri-score weights

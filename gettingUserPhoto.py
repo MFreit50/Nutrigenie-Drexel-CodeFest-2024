@@ -20,6 +20,3 @@ def getSearchImage(SEARCH_QUERY):
     else:
         print("Error:", response.status_code, response.text)
     return imageUrl
-
-#Example call:
-print(getSearchImage("White mushrooms"))
