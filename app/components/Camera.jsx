@@ -4,29 +4,38 @@ import FormData from 'form-data';
 import { Platform, StyleSheet, Text, TouchableOpacity, Image, Touchable } from 'react-native';
 import ImageResizer from 'react-native-image-resizer';
 import { RNCamera } from 'react-native-camera';
+import RNFetchBlob from 'rn-fetch-blob';
+import ImagePicker from 'react-native-image-picker';
+import base64 from 'react-native-base64';
 
 const Camera = ({ navigation, setFoods }) => {
 
-    const [photoUri, setPhotoUri] = useState(null);
+    const [photo, setPhoto] = useState(null);
 
     useEffect(() => {
-        if (photoUri) {
+        if (photo) {
+            console.log("Saved New Photo")
             const getFoodNames = async () => {
                 try {
-                    const url = 'https://drexel-codefest-2024-3.onrender.com/'
-                    const endpoint = 'picture'
+                    const url = 'https://drexel-codefest-2024-3.onrender.com'
+                    const endpoint = '/picture'
+
+                    const config = {
+                        headers: {
+                            'Content-Type': 'multipart/form-data'
+                        }
+                    }
+
                     const formData = new FormData();
                     formData.append('file', {
-                        uri: photoUri,
-                    });
-                    const response = await axios.post(url + endpoint, formData, {
-                        headers: {
-                            'Content-Type': 'multipart/form-data',
-                        },
-                    })
-                    //parse response to get foodNames?
-                    setFoods(response.data["foods"])
+                        uri: photo.uri,
+                        type: 'image/png',
+                        name: photo.name,
+                      });
+
+                    const response = await axios.post(`${url}${endpoint}`, formData, config)
                     console.log("RESPONSE", response)
+                    setFoods(response.data["foods"])
                 } catch (error) {
                     console.log("ERROR", error)
 
@@ -34,38 +43,38 @@ const Camera = ({ navigation, setFoods }) => {
             }
             getFoodNames();
         }
-    }, [photoUri]);
+    }, [photo]);
 
 
     const takePicture = async function (camera) {
         const options = { quality: 0.5, base64: true };
         const data = await camera.takePictureAsync(options);
-        const resizedPhotoUri = await ImageResizer.createResizedImage(
+        const resizedPhoto = await ImageResizer.createResizedImage(
             data.uri,
             1366,
             768,
             'JPEG',
             80
         );
-        setPhotoUri(resizedPhotoUri.uri);
+        setPhoto(resizedPhoto);
     };
 
     return (
-        photoUri ?
+        photo ?
             (
                 <>
-            <Image
-                style={styles.Image}
-                source={{ uri: photoUri }}>
-            </Image>
-            <TouchableOpacity
-                    style={styles.CTAButton}
-                    onPress={() => navigation.navigate('Rundown')}
-                >
-                    <Text style={styles.CTAButtonText}>Next</Text>
-                </TouchableOpacity>
+                    <Image
+                        style={styles.Image}
+                        source={{ uri: photo.uri }}>
+                    </Image>
+                    <TouchableOpacity
+                        style={styles.CTAButton}
+                        onPress={() => navigation.navigate('Rundown')}
+                    >
+                        <Text style={styles.CTAButtonText}>Next</Text>
+                    </TouchableOpacity>
 
-            </>
+                </>
             )
             :
             (<>
@@ -140,7 +149,7 @@ const styles = StyleSheet.create({
         top: 625
     },
     RundownButtonImage: {
-        width:200,
+        width: 200,
     },
     BackButton: {
         position: 'absolute',

@@ -15,7 +15,7 @@ const ItemRecommendation = ({ originalFood, recommendations }) => {
             <View style={styles.FoodOverlay}>
                 <Text style={styles.FoodText}>{originalFood}</Text>
             </View>
-            {recommendations.map((recommendation, index) => (
+            {recommendations && recommendations.map((recommendation, index) => (
                 <View key={index}>
                     <Text>{recommendation}</Text>
                 </View>

@@ -1,6 +1,7 @@
 import { View, Text, StyleSheet } from 'react-native'
 import { useState, useEffect } from 'react';
 import ItemRecommendation from './ItemRecommendation'
+//implement dotenv
 
 const Rundown = ({ foods }) => {
 
@@ -8,8 +9,8 @@ const Rundown = ({ foods }) => {
 
     useEffect(() => {
         const getRecommendations = async (food) => {
-            const url = 'https://drexel-codefest-2024-3.onrender.com/'
-            const endpoint = 'recommendations'
+            const url = "https://drexel-codefest-2024-3.onrender.com"
+            const endpoint = '/recommendations'
             try {
                 const response = await axios.get(`${url}${endpoint}?food_name=${food}&number_of_recommendations=5`) //pass in food name
                 const data = response.data["recommendations"]
@@ -22,7 +23,7 @@ const Rundown = ({ foods }) => {
 
         const fetchRecommendations = async () => {
             const newRecommendations = {};
-            for (let food of foods) {
+            for(let food of foods) {
                 const foodRecommendations = await getRecommendations(food);
                 newRecommendations[food] = foodRecommendations;
             }
@@ -43,7 +44,7 @@ const Rundown = ({ foods }) => {
 
             <View>
                 <Text>We found:
-                    {foods.map((food) => {
+                    {foods && foods.map((food) => {
                         return (
                             <Text>{food}</Text>
                         )
