@@ -1,5 +1,5 @@
 from fastapi import FastAPI, File, UploadFile
-from src.AI.food_recommender import recommend_food
+from AI.food_recommender import recommend_food
 from gettingUserPhoto import getSearchImage
 import requests
 import uuid
