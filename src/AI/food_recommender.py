@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from food_dataset import dataset, search_food, load_dataset
+from src.AI.food_dataset import dataset, search_food, load_dataset
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Define neural network model
