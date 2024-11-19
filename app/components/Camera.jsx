@@ -1,16 +1,16 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useContext } from 'react';
 import axios from 'axios';
 import FormData from 'form-data';
 import { Platform, StyleSheet, Text, TouchableOpacity, Image, Touchable } from 'react-native';
 import ImageResizer from 'react-native-image-resizer';
 import { RNCamera } from 'react-native-camera';
-import RNFetchBlob from 'rn-fetch-blob';
-import ImagePicker from 'react-native-image-picker';
-import base64 from 'react-native-base64';
+import { FoodsContext } from '../contexts/FoodsContext';
 
-const Camera = ({ navigation, setFoods }) => {
+
+const Camera = ({ navigation }) => {
 
     const [photo, setPhoto] = useState(null);
+    const { setFoods } = useContext(FoodsContext);
 
     useEffect(() => {
         if (photo) {
@@ -33,9 +33,10 @@ const Camera = ({ navigation, setFoods }) => {
                         name: photo.name,
                       });
 
-                    const response = await axios.post(`${url}${endpoint}`, formData, config)
-                    console.log("RESPONSE", response)
-                    setFoods(response.data["foods"])
+                    // const response = await axios.post(`${url}${endpoint}`, formData, config)
+                    // console.log("RESPONSE", response.data["foods"])
+                    //setFoods(response.data["foods"])
+                    setFoods(["apple", "banana", "orange"])
                 } catch (error) {
                     console.log("ERROR", error)
 
@@ -51,8 +52,8 @@ const Camera = ({ navigation, setFoods }) => {
         const data = await camera.takePictureAsync(options);
         const resizedPhoto = await ImageResizer.createResizedImage(
             data.uri,
-            1366,
-            768,
+            1600,
+            900,
             'JPEG',
             80
         );

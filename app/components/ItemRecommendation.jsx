@@ -1,7 +1,7 @@
 import { View, Text, Image, StyleSheet } from 'react-native'
 import { useState, useEffect } from 'react'
 
-const ItemRecommendation = ({ originalFood, recommendations }) => {
+const ItemRecommendation = ({ originalFood, individualrecommendations }) => {
 
     /*
     const [recommendationURLs, setRecommendationURLs] = useState([])
@@ -15,7 +15,7 @@ const ItemRecommendation = ({ originalFood, recommendations }) => {
             <View style={styles.FoodOverlay}>
                 <Text style={styles.FoodText}>{originalFood}</Text>
             </View>
-            {recommendations && recommendations.map((recommendation, index) => (
+            {individualrecommendations && individualrecommendations.map((recommendation, index) => (
                 <View key={index}>
                     <Text>{recommendation}</Text>
                 </View>
