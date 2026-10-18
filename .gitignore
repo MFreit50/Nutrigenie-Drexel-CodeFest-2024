@@ -68,3 +68,19 @@ yarn-error.log
 __pycache__
 
 .env
+.venv/
+webapp/.env.local
+webapp/dist/
+
+# Local environment files may contain credentials. Keep example templates commit-safe.
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Private key and certificate files
+*.pem
+*.p12
+*.pfx
+*.key
